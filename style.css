@@ -562,3 +562,16 @@ ul {
   letter-spacing: 1px;
   color: #FFFFFF;
 }
+
+.logo {
+  margin-top: 20px;
+  margin-left: 30%;
+  font-style: italic;
+  font-weight: 600;
+  font-size: 28px;
+  color: #ffaa01;
+  text-decoration: underline;
+}
+.logoName{
+  color: #f5801c;
+}
